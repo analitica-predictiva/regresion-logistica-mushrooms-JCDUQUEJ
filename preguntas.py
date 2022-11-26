@@ -59,6 +59,7 @@ La información contenida en la muestra es la siguiente:
 import pandas as pd
 
 
+
 def pregunta_01():
     """
     En esta función se realiza la carga de datos.
